@@ -1,0 +1,6 @@
+name: TpCity
+version: '${project.version}'
+main: me.melarn.tpcity.TpCity
+api-version: 1.19
+commands:
+  tpcity:
